@@ -1,3 +1,12 @@
+/* Create a class named weather report that holds a daily weather report with 
+data members day_of_month, hightemp, lowtemp,a mount_rain and 
+amount_snow. Use different types of constructors to initialize the objects. 
+Also include a function that prompts the user and sets values for each field 
+so that you can override the default values. Write a menu driven program 
+in C++ with options to enter data and generate monthly report that displays 
+average of each attribute */
+
+
 #include<iostream>
 #include<iomanip>
 
