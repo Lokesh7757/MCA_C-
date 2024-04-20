@@ -1,3 +1,9 @@
+/* Write a program in Java to implement a Calculator with simple arithmetic 
+operations such as add, subtract, multiply, divide, factorial etc. using 
+switch case and other simple java statements. The objective of this 
+assignment is to learn Constants, Variables, and Data Types, Operators and 
+Expressions, Decision making statements in Java.*/
+
 import java.io.*;
 import java.lang.*;
 import java.lang.Math;
