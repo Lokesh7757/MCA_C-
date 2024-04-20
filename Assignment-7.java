@@ -1,4 +1,4 @@
-/*Write a program in Java to create a player class. Inherit the classes 
+/* Write a program in Java to create a player class. Inherit the classes 
 Cricket_player, Football_player and Hockey_player from player class. The 
 objective of this assignment is to learn the concepts of inheritance in Java.*/
 
