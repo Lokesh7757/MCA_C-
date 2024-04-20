@@ -1,3 +1,8 @@
+/* Create an applet with three text Fields and four buttons add, subtract, 
+multiply and divide. User will enter two values in the Text Fields. When 
+any button is pressed, the corresponding operation is performed and the 
+result is displayed in the third Text Fields.*/
+
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
