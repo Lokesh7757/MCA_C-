@@ -1,3 +1,10 @@
+/*Write a program in Java with class Rectangle with the data fields width, 
+length, area and colour. The length, width and area are of double type and 
+colour is of string type. The methods are get_length(), get_width(), 
+get_colour() and find_area(). Create two objects of Rectangle and compare 
+their area and colour. If the area and colour both are the same for the 
+objects then display “Matching Rectangles”, otherwise display “Nonmatching Rectangle”.*/
+
 #include<iostream>
 using namespace std;
 
